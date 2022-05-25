@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { FaChevronRight, FaChevronLeft, FaQuoteRight } from 'react-icons/fa';
 import reviews from './data';
 const Reviews = () => {
